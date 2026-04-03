@@ -48,11 +48,11 @@
 
 This repository contains the architecture and process diagrams for the MCADS (Multi-Label Chest Abnormality Detection System) project. The diagrams are categorized into various standard modeling languages and frameworks to provide a comprehensive view of the system from different perspectives, including business processes, system context, data flow, and structural design.
 
-MCADS prototype can be reached here: <https://mcads.cloud/accounts/login/?next=/> ; username: “guest”; password: “GuEst2025!”.
+MCADS prototype can be reached via this URL: <https://mcads.cloud/accounts/login/?next=/>; username: “guest”; password: “GuEst2025!”.
 
-MCADS source code can be reached here: <https://github.com/PauleNajus/mcads/tree/prod> .
+MCADS source code can be reached via this URL: <https://github.com/PauleNajus/mcads/tree/prod>.
 
-Raw testing logs, evaluation metrics, and comparative graphs of 7 models used in MCADS can be reached here: <https://github.com/PauleNajus/mcads-model-evaluations> .
+Raw testing logs, evaluation metrics, and comparative graphs of 7 models used in MCADS can be reached via this URL: <https://github.com/PauleNajus/mcads-model-evaluations>.
 
 ## BPMN
 
