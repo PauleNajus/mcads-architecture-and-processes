@@ -13,42 +13,45 @@
 
 ## List of figures
 
-1. Figure 1: BPMN MCADS process - main
-2. Figure 2: MCADS-BPMN tests and comparison process (part A)
-3. Figure 3: MCADS-BPMN tests and comparison process (part B)
-4. Figure 4: MCADS-C4 level 1 context
-5. Figure 5: MCADS-C4 level 2 container
-6. Figure 6: MCADS-C4 level 3 component ml
-7. Figure 7: MCADS-C4 level 3 component web app
-8. Figure 8: MCADS-DFD level 0
-9. Figure 9: MCADS-DFD level 1
-10. Figure 10: MCADS-DFD level 2 inference
-11. Figure 11: MCADS-DFD level 2 interpretability
-12. Figure 12: MCADS-DFD level 2 segmentation
-13. Figure 13: MCADS-DFD level 2 upload
-14. Figure 14: MCADS-DFD level 3 classification
-15. Figure 15: MCADS-DFD level 3 gradcam
-16. Figure 16: MCADS-Rich picture problem
-17. Figure 17: MCADS-Rich picture solution
-18. Figure 18: MCADS-Rich picture system architecture
-19. Figure 19: MCADS-Information Architecture diagram
-20. Figure 20: MCADS-UML activity workflow
-21. Figure 21: MCADS-UML class diagram
-22. Figure 22: MCADS-UML component
-23. Figure 23: MCADS-UML deployment
-24. Figure 24: MCADS-UML Interactions Diagram
-25. Figure 25: MCADS-UML object
-26. Figure 26: MCADS-UML package
-27. Figure 27: MCADS-UML sequence interpretability
-28. Figure 28: MCADS-UML sequence upload inference
-29. Figure 29: MCADS-UML state machine
-30. Figure 30: MCADS-UML use case diagram
+1. [Figure 1: BPMN MCADS process - main](#bpmn-mcads-process---main)
+2. [Figure 2: MCADS-BPMN tests and comparison process (part A)](#mcads-bpmn-tests-and-comparison-process-part-a)
+3. [Figure 3: MCADS-BPMN tests and comparison process (part B)](#mcads-bpmn-tests-and-comparison-process-part-b)
+4. [Figure 4: MCADS-C4 level 1 context](#mcads-c4-level-1-context)
+5. [Figure 5: MCADS-C4 level 2 container](#mcads-c4-level-2-container)
+6. [Figure 6: MCADS-C4 level 3 component ml](#mcads-c4-level-3-component-ml)
+7. [Figure 7: MCADS-C4 level 3 component web app](#mcads-c4-level-3-component-web-app)
+8. [Figure 8: MCADS-DFD level 0](#mcads-dfd-level-0)
+9. [Figure 9: MCADS-DFD level 1](#mcads-dfd-level-1)
+10. [Figure 10: MCADS-DFD level 2 inference](#mcads-dfd-level-2-inference)
+11. [Figure 11: MCADS-DFD level 2 interpretability](#mcads-dfd-level-2-interpretability)
+12. [Figure 12: MCADS-DFD level 2 segmentation](#mcads-dfd-level-2-segmentation)
+13. [Figure 13: MCADS-DFD level 2 upload](#mcads-dfd-level-2-upload)
+14. [Figure 14: MCADS-DFD level 3 classification](#mcads-dfd-level-3-classification)
+15. [Figure 15: MCADS-DFD level 3 gradcam](#mcads-dfd-level-3-gradcam)
+16. [Figure 16: MCADS-Rich picture problem](#mcads-rich-picture-problem)
+17. [Figure 17: MCADS-Rich picture solution](#mcads-rich-picture-solution)
+18. [Figure 18: MCADS-Rich picture system architecture](#mcads-rich-picture-system-architecture)
+19. [Figure 19: MCADS-Information Architecture diagram](#mcads-information-architecture-diagram)
+20. [Figure 20: MCADS-UML activity workflow](#mcads-uml-activity-workflow)
+21. [Figure 21: MCADS-UML class diagram](#mcads-uml-class-diagram)
+22. [Figure 22: MCADS-UML component](#mcads-uml-component)
+23. [Figure 23: MCADS-UML deployment](#mcads-uml-deployment)
+24. [Figure 24: MCADS-UML Interactions Diagram](#mcads-uml-interactions-diagram)
+25. [Figure 25: MCADS-UML object](#mcads-uml-object)
+26. [Figure 26: MCADS-UML package](#mcads-uml-package)
+27. [Figure 27: MCADS-UML sequence interpretability](#mcads-uml-sequence-interpretability)
+28. [Figure 28: MCADS-UML sequence upload inference](#mcads-uml-sequence-upload-inference)
+29. [Figure 29: MCADS-UML state machine](#mcads-uml-state-machine)
+30. [Figure 30: MCADS-UML use case diagram](#mcads-uml-use-case-diagram)
 
 ## Introduction
 
 This repository contains the architecture and process diagrams for the MCADS (Multi-Label Chest Abnormality Detection System) project. The diagrams are categorized into various standard modeling languages and frameworks to provide a comprehensive view of the system from different perspectives, including business processes, system context, data flow, and structural design.
+
 MCADS prototype can be reached here: <https://mcads.cloud/accounts/login/?next=/> ; username: “guest”; password: “GuEst2025!”.
+
 MCADS source code can be reached here: <https://github.com/PauleNajus/mcads/tree/prod> .
+
 Raw testing logs, evaluation metrics, and comparative graphs of 7 models used in MCADS can be reached here: <https://github.com/PauleNajus/mcads-model-evaluations> .
 
 ## BPMN
